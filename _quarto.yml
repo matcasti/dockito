@@ -3,11 +3,10 @@ project:
 
 website:
   title: "dockito"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
 
 format:
   html:

@@ -1,11 +1,39 @@
 ---
-title: "dockito"
+title: "Docky"
+about: 
+  template: trestles
+  image: "images/docky-2.jpeg"
+  image-shape: rounded
 ---
 
-This is a Quarto website.
+# 🐾 ¡Ayúdanos a darle una sonrisa saludable a nuestro querido Docky! 🐾
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Nuestro peludito **está pasando por un momento difícil** y necesita una evaluación cardiológica y una limpieza dental urgente. Este procedimiento es esencial para su salud y bienestar, ya que sin este podría sufrir graves infecciones que pueden ser letales, pero **los costos ascienden a $700.000**, una cifra que como familia **no podemos costear** por nuestra cuenta.
 
-```{r}
-1 + 1
-```
+Para cubrir estos gastos, estamos organizando una rifa benéfica y **¡necesitamos tu apoyo!** 🎉
+
+![](images/docky-1.jpeg)
+
+## ¿Cómo puedes ayudar?
+
+### Donando premios
+
+Si tienes algo que puedas donar como premio (artículos, productos, servicios, etc.), estaríamos muy agradecidos. ¡Cada contribución cuenta!
+
+### Participando en la rifa
+
+Mantente atentx a las fechas y detalles para comprar tus boletos y tener la oportunidad de ganar fantásticos premios, ¡mientras ayudas a Dockito!
+
+Cada aporte nos acerca más a la meta de proporcionar el tratamiento que necesita y a devolverle su salud. 💖
+
+![](images/docky-3.jpeg)
+
+## Más información
+
+Para más información sobre cómo donar premios o comprar boletos, contáctanos al +56 9 7645 1432.
+
+¡Gracias por tu apoyo y amor hacia Dockito! 🙏
+
+## Un poco más de nuestro Dockito
+
+![](images/docky-vid.mp4)
